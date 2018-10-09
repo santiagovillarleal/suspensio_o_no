@@ -8,3 +8,5 @@ $ gcc -Wall suspensio.c -o suspensio
 En caso contrario, compílase así:
 
 $ gcc -Wall -DEL_PARLAMENT_ES_SOBIRA suspensio.c -o suspensio
+
+En función de cómo se compile dará resultados diferentes, como la vida misma.
